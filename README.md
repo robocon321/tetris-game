@@ -1,10 +1,11 @@
-## Deploy to github
-
-[Game URL](https://robocon321.github.io/tetris-game)
 
 # TetrisGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+
+## Deploy to github
+
+[Game URL](https://robocon321.github.io/tetris-game)
 
 ## Development server
 

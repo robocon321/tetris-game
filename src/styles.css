@@ -1,0 +1,6 @@
+body {
+  background-color: black;
+  box-sizing: border-box;
+  background-image: url('./assets/bg.jpg');
+  font-family: 'Courier New', Courier, monospace;
+}

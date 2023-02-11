@@ -1,6 +1,6 @@
 ## Deploy to github
 
-URL: `https://robocon321.github.io/tetris-game`
+[Game URL](https://robocon321.github.io/tetris-game)
 
 # TetrisGame
 

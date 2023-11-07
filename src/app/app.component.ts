@@ -181,7 +181,7 @@ export class AppComponent {
 
   @HostListener('window:keydown', ['$event'])
   handleKeyboardEvent(event: KeyboardEvent) {
-    if (event.key === 'ArrowUp') {
+    if (event.key === 'ArrowUp' || event.key == ' ') {
       this.rotateCurrentShape();
       return;
     }
